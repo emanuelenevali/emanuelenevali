@@ -8,10 +8,10 @@
 <p><img align="right" src="https://github.com/matteosz/matteosz/blob/Tank/src/coding_animation.gif" alt="matteosz" /></p>
 <br>
 
-- 👨🏽‍💻❤️ Studying Data science and Computer Science at EPFL
-- 🌱 Facing everyday new challenges
-- 💬 Ask me about anything, I love to answer!
-- 📫 How to reach me **mattsuez01@gmail.com**
+- 🧙‍♂️ Studying Data science and Computer Science at EPFL
+- 📈 Constantly improving and learning new things
+- 💬 I love to find creative solutions to problems working in a team
+- 📫 How to reach me **manu4375@gmail.com** or **emanuele.nevali@epfl.ch** 
 <a href="https://www.linkedin.com/in/matteo-suez/">
   <img align="left" alt="Matteo's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
 </a>
