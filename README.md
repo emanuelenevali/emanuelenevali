@@ -5,13 +5,13 @@
 <hr/>
 <h4 align="center"></h4>
 <br>
-<p><img align="right" src="https://github.com/matteosz/matteosz/blob/Tank/src/coding_animation.gif" alt="matteosz" /></p>
+<p><img align="right" src="https://github.com/emanuelenevali/emanuelenevali/blob/main/src/coding_animation.gif  " alt="emanuelenevali" /></p>
 <br>
 
 - 🧙‍♂️ Studying Data science and Computer Science at EPFL
 - 📈 Constantly improving and learning new things
 - 💬 I love to talk to intersting people!
-- 📫 How to reach me **manu4375@gmail.com**
+- 📫 How to reach me: **manu4375@gmail.com**
 <a href="https://www.linkedin.com/in/emanuele-nevali-090820245">
   <img align="left" alt="Emanuele's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
 </a>
