@@ -12,7 +12,7 @@
 - 📈 Constantly improving and learning new things
 - 💬 I love to talk to intersting people!
 - 📫 How to reach me **manu4375@gmail.com**
-<a href="www.linkedin.com/in/emanuele-nevali-090820245">
+<a href="https://www.linkedin.com/in/emanuele-nevali-090820245">
   <img align="left" alt="Emanuele's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
 </a>
 
