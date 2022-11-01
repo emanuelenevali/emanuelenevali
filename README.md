@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Emanuele Nevali <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science;Software+Engineering%20|%20Machine+Learning;Soving%20new%20problems%20every%20day&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science;Software+Engineering%20|%20Machine+Learning;Solving%20new%20problems%20every%20day&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center"></h4>
@@ -8,7 +8,7 @@
 <p><img align="right" src="https://github.com/matteosz/matteosz/blob/Tank/src/coding_animation.gif" alt="matteosz" /></p>
 <br>
 
-- 👨🏽‍💻 Studying Computer Science at EPFL with a specialization in Software Systems
+- 👨🏽‍💻❤️ Studying Data science and Computer Science at EPFL
 - 🌱 Facing everyday new challenges
 - 💬 Ask me about anything, I love to answer!
 - 📫 How to reach me **mattsuez01@gmail.com**
