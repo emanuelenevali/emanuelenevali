@@ -13,7 +13,7 @@
 - 💬 I love to talk to intersting people!
 - 📫 How to reach me **manu4375@gmail.com**
 <a href="www.linkedin.com/in/emanuele-nevali-090820245">
-  <img align="left" alt="Matteo's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
+  <img align="left" alt="Emanuele's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
 </a>
 
 <br>
