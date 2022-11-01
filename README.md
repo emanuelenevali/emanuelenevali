@@ -32,32 +32,21 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
       alt="mysql" width="40" height="40" /> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> 
-  <a href="https://reactjs.org" target="_blank"
-    rel="noreferrer"> <img
-      src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"
-      alt="react" width="40" height="40" /> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/OlegIlyenko/scala-icon/master/scala-icon.png"
+      alt="scala" width="40" height="40" /> </a> 
   </p>
 <br>
 
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=matteosz&show_icons=true&locale=en&layout=compact"
-    alt="Matteo's stats" /></p>
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=emanuelenevali&show_icons=true&locale=en&layout=compact"
+    alt="Emanuele's stats" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matteosz&show_icons=true&locale=en"
-    alt="matteosz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emanuelenevali&show_icons=true&locale=en"
+    alt="emanuelenevali" /></p>
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matteosz&" alt="matteosz" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emanuelenevali&" alt="emanuelenevali" /></p>
 <br>
-<p align="right"><img src="https://komarev.com/ghpvc/?username=matteosz&label=Profile%20views&color=0e75b6&style=flat"
-    alt="matteosz" /> 
+<p align="right"><img src="https://komarev.com/ghpvc/?username=emanuelenevali&label=Profile%20views&color=0e75b6&style=flat"
+    alt="emanuelenevali" /> 
 </p>
