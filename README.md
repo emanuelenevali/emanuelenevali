@@ -11,7 +11,7 @@
 - 🧙‍♂️ Studying Data science and Computer Science at EPFL
 - 📈 Constantly improving and learning new things
 - 💬 I love to talk to intersting people!
-- 📫 How to reach me: **manu4375@gmail.com**
+- 📫 How to reach me: **emanuele.nevali@epfl.ch**
 <a href="https://www.linkedin.com/in/emanuele-nevali-090820245">
   <img align="left" alt="Emanuele's LinkedIn" width="24px" src="https://img.icons8.com/nolan/96/linkedin.png" />
 </a>
